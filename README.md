@@ -6,6 +6,11 @@ Certified SCADA Security Architect (CSSA)
 
 
 
+
+SCADA INCIDENTS Database
+https://www.cybersecurityintelligence.com/repository-of-industrial-security-incidents-risi-3024.html
+
+
 Links to review:
 [] - https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources/blob/master/Training.csv
 [] - https://www.eccouncil.org/train-certify/ics-scada-cybersecurity/
